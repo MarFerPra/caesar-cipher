@@ -1,6 +1,6 @@
 # Written following "Hacking Secret Ciphers with Python" by Al Sweigart
 # https://inventwithpython.com/hacking/
-# With the only purpouse of getting in touch with Python and procrastinate during a boring class.
+# With the only purpose of getting in touch with Python and procrastinate during a boring class.
 
 mode = input('Encrypt or Decrypt? [E/D] \n')
 if mode == "E":
